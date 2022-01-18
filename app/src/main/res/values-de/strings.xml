@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FixCalc</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="settings">Einstellungen</string>
+    <string name="about">Über</string>
+    <string name="add">Hinzufügen</string>
+    <string name="done">Fertig</string>
+    <string name="delete">Löschen</string>
+    <string name="start">Start</string>
+    <string name="example_title">Beispieltitel</string>
+    <string name="example_description">Beispielbeschreibung\nNur etwas kurzes</string>
+    <string name="example_value">12,50 €</string>
+    <string name="general">Allgemein</string>
+    <string name="title">Titel</string>
+    <string name="title_default">Beispiel</string>
+    <string name="description">Beschreibung</string>
+    <string name="description_default">Beispielbeschreibung</string>
+    <string name="appearance">Aussehen</string>
+    <string name="value">Wert</string>
+    <string name="string_new">Neu</string>
+    <string name="screen_pref_title_summary">Name</string>
+    <string name="screen_pref_description_summary">Kurze Beschreibung</string>
+    <string name="screen_pref_vibration">Vibration</string>
+    <string name="screen_pref_vibration_summary">Vibration bei Tastendruck einschalten</string>
+    <string name="ui">Benutzeroberfläche</string>
+    <string name="screen_pref_ui_fast">Schnelle Eingabe aktivieren</string>
+    <string name="screen_pref_ui_fast_description">Schnelle Eingabe eignet  sich besonders für größere Zahlen</string>
+    <string name="screen_pref_ui_add_button">Zeige den \'Plus\' Button</string>
+    <string name="screen_pref_ui_add_button_description">Der gesamte Button inkrementiert die Zahl</string>
+    <string name="screen_pref_reset_button">Zeige den Reset Button</string>
+    <string name="screen_pref_reset_button_description">Setzt alle Werte auf null zurück</string>
+    <string name="general_settings">Allgemeine Einstellungen</string>
+    <string name="color">Farbe</string>
+    <string name="unit">Einheit</string>
+    <string name="unit_default">€</string>
+    <string name="screen_pref_show_sum">Summe am oberen Rand des  Bildschirms anzeigen</string>
+</resources>
